@@ -6,4 +6,5 @@ Calculate your school average.
 
 
 GRAZIE 1lgrand per aver migliorato il codice
-THANKS 1lgrand 
+<br>
+THX 1lgrand 
